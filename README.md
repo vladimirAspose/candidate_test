@@ -13,11 +13,11 @@
 
 Создать простое web SPA приложение.
 
-![Первая страница](https://github.com/devjsru/react_test/blob/master/ifinum/2018-04-03_18-11-03.png)
+![Первая страница](https://github.com/vladimirAspose/candidate_test/blob/master/2018-04-03_18-11-03.png)
 ## Первая страница
 Таблица, которая получает invoices и отображает их. Вверху кнопки "Add New" после нажатия на которую переходит на форму создания invoice.
 
-![Вторая страница](https://github.com/devjsru/react_test/blob/master/ifinum/2018-04-03_18-12-42.png)
+![Вторая страница](https://github.com/vladimirAspose/candidate_test/blob/master/2018-04-03_18-12-42.png)
 ## Вторая страница
 Форма создания. После заполнения полей и нажатия кнопки "Save" создается invoice и перенаправляет к первой странице. В таблице должен отображаться новый invoice.
 
